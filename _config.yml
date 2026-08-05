@@ -25,16 +25,16 @@ title: London Public Library Digital Collection
 tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The London Public Library Digital Collection provides access to digitized historical materials that preserve and share the history of London, Ohio, and the surrounding community."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: London Public Library (Ashlyn Grubb, MLIS)
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vRjdKvs20td1UFqcfxE1rvfrO-lwg6s738RSi-cOnMofJ19HlOafhMKp4c1w-Zg_TnJiHIsd07HRLtL/pub?output=csv
+metadata: /assets/metadata.csv
 
 ##########
 # Site/Organization Branding 
